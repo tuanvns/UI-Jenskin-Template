@@ -1,2 +1,2 @@
 # UI-Jenskin-Template
-This is template for UI team in Poeta
+This is template for UI team of Poeta
